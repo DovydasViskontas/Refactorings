@@ -5,6 +5,7 @@ namespace CSharpRefactorings.WordWrap.Original
 {
     public static class WordWrap
     {
+        //paruosta komentuoti
         #region Public Methods
         public static string Wrap(string word, int wordLength)
         {
